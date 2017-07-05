@@ -1,0 +1,10 @@
+Please enter latitude :-37.72000122
+Please enter longitude :144.97000122
+Please enter start date(YYYY/MM/DD) :2017/07/05
+Please enter end date(YYYY/MM/DD) :2017/07/05
+Data imported to WeatherData.csv
+Current Temperature in Fawkner is: 7.4 °C
+Humidity : 88% 
+Wind : 0 km/h North
+Pressure : 1016 hPa
+Precipitation : 0 %
